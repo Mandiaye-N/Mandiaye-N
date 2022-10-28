@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Mandiaye-N
-- 👀 I’m interested in responsive web and JS
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in web development
+- 🌱 I’m currently doing js, bash, sql, react, data visulization etc
 - 💞️ I’m looking to collaborate on developping website
-- 📫 How to reach me : mandiayendiayegossas@gmail.com
+- 📫 How to reach me : mandiayen21@gmail.com
 
 <!---
 Mandiaye-N/Mandiaye-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
